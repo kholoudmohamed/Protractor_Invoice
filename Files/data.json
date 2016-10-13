@@ -1,0 +1,26 @@
+{
+ "header" : "INVOICE",
+ "footer" : "Jasdeep Singh & Manpreet Singh Made with ♥ in Toronto by Metaware Labs Inc.",
+
+ "invoiceNumber": "12345",
+
+ "customerName" : "Kholoud Mohamed",
+ "customerWeblink" : "www.linkedin.com/in/kmohamed0",
+ "customerAddress1" : "566 palestine st.",
+ "customerAddress2" : "Cairo, New Maadi",
+ "customerPostal" : "12345",
+ "currency":"Euro (€)",
+ 
+ "companyName": "Integrant Inc.",
+ "companyWeblink" : "www.integrant.com",
+ "companyAddress1" : "566 palestine st.",
+ "companyAddress2" : "Cairo, New Maadi",
+ "companyPostal" : "67890",
+ 
+ "productName" : "Dell Laptop 16 inch",
+ "quantity": "5",
+ "cost": "30",
+ 
+ "tax":"15"
+
+}
